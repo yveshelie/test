@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <h1>Ceci est un test</h1>
+    <h1>Ceci est une github page</h1>
 </body>
 
 </html>
